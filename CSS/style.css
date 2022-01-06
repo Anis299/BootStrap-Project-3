@@ -1,0 +1,228 @@
+@font-face {
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+            /* Topbar CSS Start Here */
+.top-text{
+    font-family: 'Montserrat';
+    font-weight: bold;
+    margin-bottom: 0;
+}
+            /* Topbar CSS End Here */
+
+            /* Header CSS Start Here */
+header{
+    background-image: url("../Images/banner-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav-text{
+    font-family: 'Bebas Neue';
+    font-size: 25px;
+    color: #3d2514;
+}
+.header-text p{
+    border-color: #3d2514;
+    border-style: dashed;
+    display: inline-block;
+    padding: 5px 30px;
+    font-weight: bold;
+    color: #3d2514;
+}
+.burger{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.header-text h1{
+    font-family: 'Alfa Slab One';
+    font-size: 120px;
+    margin-top: 20px;
+    color: #3d2514;
+    text-shadow: 5px 5px 0 #fee8bc;
+}
+.header-text h2{
+    font-family: 'Alfa Slab One';
+    font-size: 60px;
+    margin-top: 10px;
+    color: #3d2514;
+    text-shadow: 5px 5px 0 #fee8bc;
+}
+.burger-image img{
+    width: 600px;
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+            /* Header CSS End Here */
+
+            /* Banner CSS Start Here */
+.left-image{
+    background-image: url('../Images/burgerOne.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+}
+.left-image h2{
+    font-family: 'Bebas Neue';
+    padding-top: 40px;
+    padding-left: 40px;
+    line-height: 0;
+}
+.left-image h3{
+    font-family: 'Bebas Neue';
+    font-weight: bold;
+    font-size: 40px;
+    padding-left: 40px;
+}
+.right-image1{
+    background-image: url('../Images/burgerTwo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 215px;
+}
+.right-image1 h3{
+    font-family: 'Bebas Neue';
+    padding-top: 30px;
+    padding-left: 30px;
+    line-height: 0;
+}
+.right-image1 h2{
+    font-family: 'Bebas Neue';
+    font-weight: bold;
+    font-size: 40px;
+    padding-left: 30px;
+}
+.right-image2{
+    background-image: url('../Images/burgerThree.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 215px;
+    margin-top: 20px;
+}
+.right-image2 h3{
+    font-family: 'Bebas Neue';
+    padding-top: 30px;
+    padding-left: 30px;
+    line-height: 0;
+}
+.right-image2 h2{
+    font-family: 'Bebas Neue';
+    font-weight: bold;
+    font-size: 40px;
+    padding-left: 30px;
+}
+            /* Banner CSS End Here */
+
+            /* Feature CSS Start Here */
+.button{
+    color: #3d2514;
+    background-color: #ffc045;
+    border: none;
+    font-family: 'Bebas Neue';
+    font-size: 20px;
+    padding: 10px 30px 10px 30px;
+    margin-bottom: 30px;
+}
+.feature h1{
+    font-family: 'Alfa Slab One';
+    font-size: 50px;
+    color: #3d2514;
+}
+            /* Feature CSS End Here */
+
+            /*Variant CSS Start Here */
+.v-image1 h4{
+    font-family: 'Bebas Neue';
+    color: #3d2514;
+    font-size: 40px;
+    padding-top: 20px;
+}
+.v-image1 p{
+    font-family: 'Montserrat';
+    color: #3d2514;
+}
+.v-button{
+    font-family: 'Alfa Slab One';
+    background-color: #df1b1b;
+    padding: 10px 40px;
+    border: none;
+}
+            /*Variant CSS End Here */
+
+            /* Upcoming CSS Start Here */
+.up-text h2{
+    font-family: 'Bebas Neue';
+    color: #3d2514;
+    font-size: 30px;
+    padding-top: 30px;
+}
+.up-text h1{
+    font-family: 'Alfa Slab One';
+    color: #3d2514;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+.up-text p{
+    font-family: 'Montserrat';
+    color: #3d2514;
+}
+            /* Upcoming CSS End Here */
+
+            /* Reservation CSS Start here */
+.reserve-text h2{
+    font-family: 'Bebas Neue';
+    color: #3d2514;
+    font-size: 30px;
+    margin-top: 70px;
+}
+.reserve-text h1{
+    font-family: 'Alfa Slab One';
+    color: #3d2514;
+    font-size: 40px;
+    margin-bottom: 70px;
+}
+.form-section{
+    font-family: 'Bebas Neue';
+    color: #3d2514;
+}
+.btn{
+    font-family: 'Alfa Slab One';
+    background-color: #df1b1b;
+    border: none;
+}
+            /* Reservation CSS End here */
+
+            /* Footer CSS Start Here */
+.last-image{
+    background-image: url('../Images/footerBg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 100px;
+    padding-top: 100px;
+}
+.footer-image p{
+    font-family: 'Bebas Neue';
+    margin-bottom: 150px ;
+}
+.footer-image img{
+    margin-bottom: 50px;
+}
+.credit p{
+    font-family: 'Bebas Neue';
+    text-align: left;
+    margin-bottom: 0;
+}
+.social-icons a{
+    font-size: 20px;
+}
+.social-icons ul{
+    text-align: right;
+    margin-right: 20px;
+    font-size: 30px;
+}
+            /* Footer CSS End Here */
+
